@@ -22,4 +22,4 @@
 - Pull requests são bem-vindos.
 
 ## :pencil: License
-[MIT](https://choosealicense.com/licenses/mit/)
+Esse projeto está sob a licença MIT. Veja o arquivo [MIT](https://choosealicense.com/licenses/mit/) para mais detalhes.
