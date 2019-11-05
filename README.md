@@ -1,16 +1,25 @@
-# teste_flutter
+# :iphone: Iniciando com o Flutter
 
-A new Flutter project.
+## :round_pushpin: Objetivos
 
-## Getting Started
+- [x] Introduzir os conceitos básicos sobre o Dart.
+- [x] Introduzir os conceitos básicos sobre o Flutter.
+- [x] Exemplificação da criação de interfaces.
 
-This project is a starting point for a Flutter application.
+## :wrench: Executar 
+```bash
+- Você necessita ter instalado e configurado as variáveis de ambiente do Flutter.
+- Clone esse repositório.
+- Rode o projeto no VS Code ou a IDE de sua preferência.
+```
 
-A few resources to get you started if this is your first Flutter project:
+## :fire: Tecnologias Utilizadas
+- Flutter
+- Dart
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## :man: Contribuições
+- @JonasYo Jonas Siqueira Marcelino 
+- Pull requests são bem-vindos.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## :pencil: License
+[MIT](https://choosealicense.com/licenses/mit/)
